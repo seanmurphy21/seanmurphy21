@@ -26,7 +26,7 @@ I found my love for data, coding, and statistics in a philosophy course. Yes, a 
 
 ### Badges
 
-<a href="https://github.com/seanmurphy21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmurphy21&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/seanmurphy21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?v=1&username=seanmurphy21&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
