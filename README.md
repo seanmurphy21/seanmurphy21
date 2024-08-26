@@ -1,5 +1,5 @@
-Hi 👋 My name is Sean Murphy
-============================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sean Murphy
+===================================================================================================================================
 
 Aspiring Data Scientist
 -----------------------
@@ -10,7 +10,7 @@ I found my love for data, coding, and statistics in a philosophy course. Yes, a 
 * ✉️  You can contact me at [seanmurphy21@charter.net](mailto:seanmurphy21@charter.net)
 * 🧠  I'm learning NLP
 * 🤝  I'm open to collaborating on meaningful, impactful projects
-* ⚡  I still love philosophy and writing
+* ⚡  I love philosophy and writing
 
 ### Skills
 
