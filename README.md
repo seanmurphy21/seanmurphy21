@@ -8,7 +8,7 @@ I found my love for data, coding, and statistics in a philosophy course. Yes, a 
 
 * 🌍  I'm based in Connecticut
 * ✉️  You can contact me at [seanmurphy21@charter.net](mailto:seanmurphy21@charter.net)
-* 🧠  I'm learning NLP
+* 🧠  I'm learning NLP, Hadoop, Spark, & Java
 * 🤝  I'm open to collaborating on meaningful, impactful projects
 * ⚡  I love philosophy and writing
 
